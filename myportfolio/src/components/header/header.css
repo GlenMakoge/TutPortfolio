@@ -59,6 +59,15 @@ after the social icons*/
     font-weight: 0.9rem;
 }
 
+.info {
+    margin-top: 80px;
+}
+
+h5,h1 {
+    text-align: center;
+    font-size: 30px;
+}
+
 /*This is what we call media query: here we define the css that will be apply for a
 specific screen*/
 @media screen and(max-width:1024px) {
@@ -77,3 +86,4 @@ specific screen*/
         display: none;
     }
 }
+
